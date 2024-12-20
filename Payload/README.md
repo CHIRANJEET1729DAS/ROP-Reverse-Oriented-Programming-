@@ -73,8 +73,11 @@ After stitching the shellcode (specifically designed to read the flag) into the 
 
 ## HERE are the snapshots of intermediate steps
 
+here, I set a breakpoint at **jmp eax**
 ![1](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Payload/Immediate_steps/third.png)
 
+here, I load the **payload** and run
 ![2](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Payload/Immediate_steps/fourth.png)
 
+here, I successfully navigated to **ebx** register 
 ![3](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Payload/Immediate_steps/fifth.png)
