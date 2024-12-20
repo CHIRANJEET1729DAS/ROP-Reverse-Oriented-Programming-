@@ -1,4 +1,4 @@
-# 🚀 **Return-Oriented Programming (ROP) Technique**
+#  **Return-Oriented Programming (ROP) Technique**
 
 ## 🔍 **What is ROP?**
 
