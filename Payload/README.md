@@ -28,9 +28,10 @@ The output revealed the following:
 
 The binary doesn't provide a direct function to retrieve the flag. Therefore, I had to resort to ROP (Return-Oriented Programming) to craft a custom chain of instructions that would allow me to access the flag by exploiting available gadgets.
 
-**3**: Identifying a Useful Gadget
+**3**: Identifying a Useful Gadget  
 
-By running ROPgadget, I discovered a useful gadget:   **jmp eax**
+     ROPgadget --binary ./vuln > gadgets.txt
+     I discovered a useful gadget:   **jmp eax**
 
 This gadget is simple but effective, as it can redirect execution to whatever is placed in the eax register.
 
