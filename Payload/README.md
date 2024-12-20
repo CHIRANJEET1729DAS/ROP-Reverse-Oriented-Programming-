@@ -68,3 +68,13 @@ After stitching the shellcode (specifically designed to read the flag) into the 
 ## FLAG RETRIEVED
 **YES indeed the flag contained that "Chiranjeet was here" :_)
 ![RESULT](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Results/cracked.png)
+
+
+
+## HERE are the snapshots of intermediate steps
+
+![1](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Payload/Immediate_steps/third.png)
+
+![2](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Payload/Immediate_steps/fourth.png)
+
+![3](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Payload/Immediate_steps/fifth.png)
