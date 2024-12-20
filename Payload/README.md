@@ -66,5 +66,5 @@ Now, with ebx holding my shellcode, I could successfully execute it.
 After stitching the shellcode (specifically designed to read the flag) into the payload, I finally managed to exploit the vulnerability and retrieve the flag.
 
 ## FLAG RETRIEVED
-
+**YES indeed the flag contained that "Chiranjeet was here" :_)
 ![RESULT](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Results/cracked.png)
