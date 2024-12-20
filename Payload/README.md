@@ -64,3 +64,7 @@ Now, with ebx holding my shellcode, I could successfully execute it.
 **8**: Success! Flag Retrieved
 
 After stitching the shellcode (specifically designed to read the flag) into the payload, I finally managed to exploit the vulnerability and retrieve the flag.
+
+## FLAG RETRIEVED
+
+![RESULT](https://github.com/CHIRANJEET1729DAS/ROP-Reverse-Oriented-Programming-/blob/main/Results/cracked.png)
